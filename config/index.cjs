@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: 'fe5940f44537597ed4b759e92c5dca67',
 
   PROVINCE: '河北',
-  CITY: '南和',
+  CITY: '邢台',
 
   USERS: [
     {
